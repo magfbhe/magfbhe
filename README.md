@@ -8,6 +8,7 @@
 ## 📚 Cursos
 - [curso-abap-cds](https://github.com/Curso-ABAP/curso-abap-cds)
 - [curso-abap-rap](https://github.com/Curso-ABAP/curso-abap-rap)
+- [curso-abap-gateway](https://github.com/Curso-ABAP/curso-abap-gateway)
 
 ## 💻 Curso BTP
 - [btp-solution-diagrams](https://github.com/magfbhe/btp-solution-diagrams)
