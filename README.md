@@ -13,8 +13,9 @@
 ## 💻 Curso BTP
 - [btp-solution-diagrams](https://github.com/magfbhe/btp-solution-diagrams)
 
-## Clean Core
-https://github.com/Spoukz/CleanCore-SAP---Guide/blob/main/cartilha-sap-clean-core.md
+## 🧩 SAP Clean Core
+![SAP BTP](https://img.shields.io/badge/SAP-BTP-blue?logo=sap)  
+- [Cartilha SAP Clean Core](https://github.com/Spoukz/CleanCore-SAP---Guide/blob/main/cartilha-sap-clean-core.md)
 
 ## 📈 Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=magfbhe&show_icons=true)
