@@ -1,8 +1,5 @@
 # 👋 Marco Antonio
 
-Sou desenvolvedor com foco em **ABAP, SAP e protótipos de soluções**.  
-Aqui você encontra meus estudos, projetos acadêmicos e experimentos.
-
 ## 🎓 TCC
 - [Prototipo_TCPPUC](https://github.com/magfbhe/Prototipo_TCPPUC)
 - [PrototipoVendas](https://github.com/magfbhe/PrototipoVendas)
