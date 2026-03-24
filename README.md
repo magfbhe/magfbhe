@@ -14,7 +14,7 @@
 - [btp-solution-diagrams](https://github.com/magfbhe/btp-solution-diagrams)
 
 ## 🧩 SAP Clean Core
-![SAP BTP](https://img.shields.io/badge/SAP-BTP-blue?logo=sap)  
+![SAP BTP](https://img.shields.io/badge/SAP-BTP-blue?logo=sap) 
 - [Cartilha SAP Clean Core](https://github.com/Spoukz/CleanCore-SAP---Guide/blob/main/cartilha-sap-clean-core.md)
 
 ## 📈 Estatísticas
