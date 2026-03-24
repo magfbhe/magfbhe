@@ -12,5 +12,8 @@ Aqui você encontra meus estudos, projetos acadêmicos e experimentos.
 - [curso-abap-cds](https://github.com/Curso-ABAP/curso-abap-cds)
 - [curso-abap-rap](https://github.com/Curso-ABAP/curso-abap-rap)
 
+## 💻 Curso BTP
+- [btp-solution-diagrams](https://github.com/magfbhe/btp-solution-diagrams)
+
 ## 📈 Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=magfbhe&show_icons=true)
