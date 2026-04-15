@@ -8,7 +8,7 @@
 - [curso-abap-rap](https://github.com/magfbhe/curso-abap-rap)
 - [curso-abap-gateway](https://github.com/magfbhe/abap-gateway)
 - [CPI](https://github.com/magfbhe/CPI)
-## 💻 Curso BTP
+## 💻 BTP
 - [btp-solution-diagrams](https://github.com/magfbhe/btp-solution-diagrams)
 ## 🧩 SAP Clean Core
 - [Cartilha SAP Clean Core](https://github.com/Spoukz/CleanCore-SAP---Guide/blob/main/cartilha-sap-clean-core.md)
